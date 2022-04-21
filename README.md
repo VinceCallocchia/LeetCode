@@ -1,7 +1,7 @@
 LeetCode
 ========
 
-(Note: "🔒" means in progress, "✔️" means complete)
+(Note: "🔒" means in progress, "✅" means complete)
 
 ### Algorithm
 
