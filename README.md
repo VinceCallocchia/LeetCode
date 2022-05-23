@@ -1,6 +1,8 @@
 LeetCode
 ========
 
+![LeetCode Banner](/images/LeetCode.png)
+
 (Note: "🔒" means in progress, "✅" means complete)
 
 ### Algorithm
